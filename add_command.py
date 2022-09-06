@@ -14,26 +14,12 @@ json = {
         {
             "name": "status",
             "description": "fetch server status",
-            "type": 2,
-            "options": [
-                {
-                    "name": "server",
-                    "description": "server",
-                    "type": 1,
-                }
-            ],
+            "type": 1,
         },
         {
             "name": "wake",
             "description": "wake server",
-            "type": 2,
-            "options": [
-                {
-                    "name": "server",
-                    "description": "server",
-                    "type": 1,
-                }
-            ],
+            "type": 1,
         },
     ]
 }
